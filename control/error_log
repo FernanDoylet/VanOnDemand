@@ -1,0 +1,107 @@
+[11-Jan-2023 19:51:36 UTC] PHP Warning:  include(../control/unCambio.php): Failed to open stream: No such file or directory in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 5
+[11-Jan-2023 19:51:36 UTC] PHP Warning:  include(): Failed opening '../control/unCambio.php' for inclusion (include_path='../inc') in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 5
+[11-Jan-2023 20:01:52 UTC] PHP Warning:  include(../control/unCambio.php): Failed to open stream: No such file or directory in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 5
+[11-Jan-2023 20:01:52 UTC] PHP Warning:  include(): Failed opening '../control/unCambio.php' for inclusion (include_path='../inc') in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 5
+[11-Jan-2023 20:02:15 UTC] PHP Warning:  include(../control/unCambio.php): Failed to open stream: No such file or directory in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 5
+[11-Jan-2023 20:02:15 UTC] PHP Warning:  include(): Failed opening '../control/unCambio.php' for inclusion (include_path='../inc') in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 5
+[11-Jan-2023 20:02:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_numero() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 20
+[11-Jan-2023 20:04:47 UTC] PHP Warning:  include(../control/unCambio.php): Failed to open stream: No such file or directory in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 5
+[11-Jan-2023 20:04:47 UTC] PHP Warning:  include(): Failed opening '../control/unCambio.php' for inclusion (include_path='../inc') in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 5
+[11-Jan-2023 20:04:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_numero() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 20
+[11-Jan-2023 20:04:55 UTC] PHP Warning:  include(../control/unCambio.php): Failed to open stream: No such file or directory in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 5
+[11-Jan-2023 20:04:55 UTC] PHP Warning:  include(): Failed opening '../control/unCambio.php' for inclusion (include_path='../inc') in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 5
+[12-Jan-2023 15:15:06 UTC] PHP Warning:  include(../control/unCambio.php): Failed to open stream: No such file or directory in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 5
+[12-Jan-2023 15:15:06 UTC] PHP Warning:  include(): Failed opening '../control/unCambio.php' for inclusion (include_path='../inc') in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 5
+[12-Jan-2023 15:18:01 UTC] PHP Warning:  include(../control/unCambio.php): Failed to open stream: No such file or directory in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 5
+[12-Jan-2023 15:18:01 UTC] PHP Warning:  include(): Failed opening '../control/unCambio.php' for inclusion (include_path='../inc') in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 5
+[12-Jan-2023 17:24:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_numero() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 20
+[12-Jan-2023 17:55:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_numero() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 20
+[12-Jan-2023 18:01:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_numero() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 20
+[12-Jan-2023 18:03:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_numero() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 20
+[12-Jan-2023 18:04:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_numero() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 20
+[12-Jan-2023 18:06:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_numero() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 20
+[12-Jan-2023 18:11:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_numero() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 20
+[12-Jan-2023 18:15:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_numero() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 20
+[12-Jan-2023 18:18:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_numero() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 20
+[12-Jan-2023 18:22:09 UTC] PHP Fatal error:  Uncaught Error: Object of class usuario could not be converted to string in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 20
+[12-Jan-2023 18:26:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_numero() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 22
+[12-Jan-2023 18:26:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_numero() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 22
+[12-Jan-2023 18:27:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_numero() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 22
+[12-Jan-2023 18:27:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_numero() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 22
+[12-Jan-2023 18:31:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_clave() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 25
+[12-Jan-2023 18:32:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::get_clave() in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php on line 25
+[12-Jan-2023 18:34:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'peodgt.cambio' doesn't exist in /home/d1wb6akqixh7/public_html/VOD2/model/Dbclass.php:65
+Stack trace:
+#0 /home/d1wb6akqixh7/public_html/VOD2/model/Dbclass.php(65): PDOStatement->execute()
+#1 /home/d1wb6akqixh7/public_html/VOD2/control/unCambio.php(61): Dbclass->getOne()
+#2 /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php(52): unCambio->getSecNum()
+#3 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/model/Dbclass.php on line 65
+[12-Jan-2023 18:35:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'peodgt.cambio' doesn't exist in /home/d1wb6akqixh7/public_html/VOD2/model/Dbclass.php:65
+Stack trace:
+#0 /home/d1wb6akqixh7/public_html/VOD2/model/Dbclass.php(65): PDOStatement->execute()
+#1 /home/d1wb6akqixh7/public_html/VOD2/control/unCambio.php(61): Dbclass->getOne()
+#2 /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php(52): unCambio->getSecNum()
+#3 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/model/Dbclass.php on line 65
+[12-Jan-2023 18:38:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'peodgt.cambio' doesn't exist in /home/d1wb6akqixh7/public_html/VOD2/model/Dbclass.php:65
+Stack trace:
+#0 /home/d1wb6akqixh7/public_html/VOD2/model/Dbclass.php(65): PDOStatement->execute()
+#1 /home/d1wb6akqixh7/public_html/VOD2/control/unCambio.php(61): Dbclass->getOne()
+#2 /home/d1wb6akqixh7/public_html/VOD2/control/loginControl.php(53): unCambio->getSecNum()
+#3 {main}
+  thrown in /home/d1wb6akqixh7/public_html/VOD2/model/Dbclass.php on line 65
